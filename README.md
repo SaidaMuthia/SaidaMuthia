@@ -13,4 +13,5 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
 
-### 💬 Let's Connect -> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/saidamuthiakhadijah)
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/saidamuthiakhadijah)
